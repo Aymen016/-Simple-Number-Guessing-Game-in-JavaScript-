@@ -11,7 +11,7 @@ Welcome to the Number Guessing Game! This is a simple JavaScript game where you 
 
 ## Getting Started
 
-To play the game, simply open the `index.html` file in your web browser.
+To play the game, simply open the `game.html` file in your web browser.
 
 ## Contribution
 
